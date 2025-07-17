@@ -13,10 +13,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"   />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -25,13 +21,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" />
+  <img width="12" />
+ 
 </div>
 
 <h3 align="left">💻Обо мне</h3>
 
 ###
 
-<p align="left">Я начинающий разработчик, сосредоточенный на решении разнообразных задач. Мой опыт пока небольшой, но я активно изучаю язык через практику — пишу скрипты для автоматизации, работаю с файлами. В общем эксперементирую и хочу пробовать что то новое.<p align="left"> <img width="40" src="assets/PES4_Gamer.png" alt="Gamer"/> </p>
+<p align="left">Я начинающий разработчик и изучаю Python. В общем эксперементирую и хочу пробовать что то новое.<p align="left"> <img width="40" src="assets/PES4_Gamer.png" alt="Gamer"/> </p>
 
 
 
