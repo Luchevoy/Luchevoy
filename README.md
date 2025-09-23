@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Я начинающий разработчик и изучаю Python. В общем эксперементирую и хочу пробовать что то новое.<p align="left"> <img width="40" src="assets/PES4_Gamer.png" alt="Gamer"/> </p>
+<p align="left"> <img width="40" src="assets/PES4_Gamer.png" alt="Gamer"/> </p>
 
 
 
