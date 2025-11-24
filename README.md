@@ -1,4 +1,4 @@
-<h1 align="center">👋Привет я Лучевой!</h1>
+
 
 <p align="center">
  <img width="600" src="assets/pepefrg-4.gif" alt="Dance"/>
